@@ -8,7 +8,7 @@ sedangkan **Wifi** merupakan sebuah pemancar jaringan nirkabel yang dapat memanc
 
 ![Image](lifi.jpg)
 
-__Gambaran kinerja Li-Fi
+__Gambaran kinerja Li-Fi__
 
 Kecepatan Li-Fi juga jauh lebih unggul dibanding Wifi, kecepatan Li-Fi bisa sampai 10 kali lipat lebih cepat di banding wifi. Namun Li-Fi hanya dapat digunakan di satu ruangan Karena menggunakan cahaya tampak, dan cahaya tidak bisa menembus dinding, rentang sinyal tentunya jadi dibatasi oleh penghalang fisik. 
 
