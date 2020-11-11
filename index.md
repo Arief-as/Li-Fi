@@ -2,9 +2,9 @@
 
 ## Teknologi Li-Fi
 
-Li-Fi merupakan sebuah teknologi yang dapat memancarkan sinyal interner melalui cahaya Lampu LED. Li-Fi atau Light fidelity merupakan teknologi terbaru yang memungkinkan internet dapat terhubung melalui cahaya. Berbeda dengan Wi-Fi yang dapat memancarkan sinyal internet melalui gelombang frekuensi radio.
+**Li-Fi** merupakan sebuah teknologi yang dapat memancarkan sinyal interner melalui cahaya Lampu LED. Li-Fi atau Light fidelity merupakan teknologi terbaru yang memungkinkan internet dapat terhubung melalui cahaya. Berbeda dengan Wi-Fi yang dapat memancarkan sinyal internet melalui gelombang frekuensi radio.
 
-sedangkan Wi-Fi merupakan sebuah pemancar jaringan nirkabel yang dapat memancarkan jaringan internet melalui frekuensi radio.
+sedangkan **Wi-Fi** merupakan sebuah pemancar jaringan nirkabel yang dapat memancarkan jaringan internet melalui frekuensi radio.
 
 [Image](lifi.jpg)
 
