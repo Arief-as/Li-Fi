@@ -11,8 +11,8 @@ sedangkan **Wifi** merupakan sebuah pemancar jaringan nirkabel yang dapat memanc
 gambaran kinerja Li-Fi
 
 Kecepatan Li-Fi juga jauh lebih unggul dibanding Wifi, kecepatan Li-Fi bisa sampai 10 kali lipat lebih cepat di banding wifi. Namun Li-Fi hanya dapat digunakan di satu ruangan Karena menggunakan cahaya tampak, dan cahaya tidak bisa menembus dinding, rentang sinyal tentunya jadi dibatasi oleh penghalang fisik. 
-**Berikut Kelebihan dan kekurangan pada Li-Fi.**
 
+**Berikut Kelebihan dan kekurangan pada Li-Fi.**
 **Kelebihan Li-Fi :**
 
 - Efisiensi pada biaya rendah karena memerlukan komponen lebih sedikit dari teknologi sinyal radio. Energi dalam pencahayaan LED sudah efisien dan transmisi data membutuhkan daya tambahan yang diabaikan. Lingkungan transmisi pada RF dan propagasi sangat sulit, tetapi tidak pada lifi yang bekerja dengan baik dalam hal lingkungan. Keselamatan terhadap kehidupan di bumi telah berevolusi melalui paparan cahaya, sehingga tidak ada masalah keamanan atau kesehatan pada teknologi ini.dan tidak ada bahaya yang diakibatkan oleh teknologi ini karena transmisi cahaya menghindari penggunaan frekuensi radio yang dapat mengganggu sirkuit elektronik di lingkungan tertentu seperti di dalam pesawat.
@@ -24,4 +24,6 @@ Kecepatan Li-Fi juga jauh lebih unggul dibanding Wifi, kecepatan Li-Fi bisa samp
 - Karena menggunakan cahaya tampak, dan cahaya tidak bisa menembus dinding, rentang sinyal tentunya jadi dibatasi oleh penghalang fisik.
 - Karena menggunakan cahaya tampak, dan cahaya tidak bisa menembus dinding, rentang sinyal tentunya jadi dibatasi oleh penghalang fisik.
 
-    __Arief Armansyah__                                                                                 **11 November 2020**
+
+    **Arief Armansyah**                                                                               
+    **11 November 2020**
