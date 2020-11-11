@@ -1,8 +1,12 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/Arief-as/Li-fi/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+## Teknologi Li-Fi
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Li-Fi merupakan sebuah teknologi yang dapat memancarkan sinyal interner melalui cahaya Lampu LED. Li-Fi atau Light fidelity merupakan teknologi terbaru yang memungkinkan internet dapat terhubung melalui cahaya. Berbeda dengan Wi-Fi yang dapat memancarkan sinyal internet melalui gelombang frekuensi radio.
+
+sedangkan Wi-Fi merupakan sebuah pemancar jaringan nirkabel yang dapat memancarkan jaringan internet melalui frekuensi radio.
+
+[Image](lifi.jpg)
 
 ### Markdown
 
