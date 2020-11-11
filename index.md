@@ -7,6 +7,7 @@
 sedangkan **Wifi** merupakan sebuah pemancar jaringan nirkabel yang dapat memancarkan jaringan internet melalui frekuensi radio.
 
 ![Image](lifi.jpg)
+
 gambaran kinerja Li-Fi
 
 Kecepatan Li-Fi juga jauh lebih unggul dibanding Wifi, kecepatan Li-Fi bisa sampai 10 kali lipat lebih cepat di banding wifi. Namun Li-Fi hanya dapat digunakan di satu ruangan Karena menggunakan cahaya tampak, dan cahaya tidak bisa menembus dinding, rentang sinyal tentunya jadi dibatasi oleh penghalang fisik. 
@@ -23,11 +24,4 @@ Kecepatan Li-Fi juga jauh lebih unggul dibanding Wifi, kecepatan Li-Fi bisa samp
 - Karena menggunakan cahaya tampak, dan cahaya tidak bisa menembus dinding, rentang sinyal tentunya jadi dibatasi oleh penghalang fisik.
 - Karena menggunakan cahaya tampak, dan cahaya tidak bisa menembus dinding, rentang sinyal tentunya jadi dibatasi oleh penghalang fisik.
 
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Arief-as/Li-fi/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+    __Arief Armansyah__                                                                                 **11 November 2020**
